@@ -1,0 +1,132 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Hydrotherosaurus>Hydrotherosaurus</Hydrotherosaurus>
+      <Hydrotherosaurus_stt>Hydrotherosaurus</Hydrotherosaurus_stt>
+      <Hydrotherosaurus_lower>the Hydrotherosaurus</Hydrotherosaurus_lower>
+      <Hydrotherosaurus_ltt>
+         <color r="255" g="248" b="178">
+            <b>Hydrotherosaurus</b>
+         </color>
+         <br/>
+         Click to select and then place a Hydrotherosaurus, a huge Plesiosaur from the Pacific Ocean.
+      </Hydrotherosaurus_ltt>
+      <!--gift names-->
+      <Hydrotherosaurus_Gift>Hydrotherosaurus giftname</Hydrotherosaurus_Gift>
+      <Hydrotherosaurus_Gift_stt>Hydrotherosaurus Backpack</Hydrotherosaurus_Gift_stt>
+      <Hydrotherosaurus_Gift_lower>the Hydrotherosaurus Backpack</Hydrotherosaurus_Gift_lower>
+      <Hydrotherosaurus_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Hydrotherosaurus Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Hydrotherosaurus will buy this gift.
+      </Hydrotherosaurus_Gift_ltt>
+</entityname>
+<zoopedia_hydrotherosaurus>
+ <entry>Hydrotherosaurus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Hydrotherosaurus/Hydrotherosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Hydrotherosaurus/Hydrotherosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_Coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">California Coast<br/></color> 
+     <img src="ui/icon_maplocations/coastal_cretaceous_california.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Plesiosaurs <i>(Plesiosauria)</i><br/>Family: Elasmosaurs <i>(Elasmosauridae)</i><br/>Genus: <i>Hydrotherosaurus</i><br/>Species: <i>alexandrae</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Hydrotherosaurus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">A healthy boar <i>Hydrotherosaurus</i> neck alone can weigh over 1 and a half tonnes and measure 6.5 meters long.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Hydrotherosaurus</i> constantly rub and touch each others necks to strengthen social bonds and keep in contact with each other in dark water.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Very rarely, a <i>Hydrotherosaurus</i> sow will give birth to twins.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Hydrotherosaurus in challenge or campaign games, you must earn a 4 1/2 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>Imagine if you were lucky enough to stumble across the skeleton of a new species monstrous sea reptile, buried in the rocks for eons untold. In 1937, a Mr. Frank Paiva did just that, finding the skeleton of a giant Elasmosaur, or long-necked Plesiosaur, in the arid Panoche Hills of Fresno County, California. Excavated by a team of scientists working for the University of California and Fresno State College, it was named <i>Hydrotherosaurus alexandrae,</i> after Annie Montague Alexander, a prominent philanthropist and palaeontological collector of that era. Samuel P. Welles, the man who named the beast, derived its name from a Greek word meaning Fisherman; however, a more literal and more appropriate translation of the creatures name would be Water Beast Reptile.
+   <p/><i>Hydrotherosaurus</i> are what is known as Mesopredators, animals specialized for taking down small to medium-sized prey. For an animal the size of a bus, however, medium-sized generally means the size of a car, and indeed elasmosaurs are vicious predators of fish, mollusks, seabirds, sharks, turtles, smaller plesiosaurs, diving pterosaurs, ichthyosaurs, and even small mosasaurs. They will also scavenge from dead and dying animals when the opportunity arises. <i>Hydrotherosaurus</i> live and hunt in large family groups called phalanxes, led by a single dominant boar. Each phalanx can have up to forty individuals of both genders and of varying ages and social status. Not even a giant mosasaur will tangle with a well-defended Phalanx; each <i>Hydrotherosaurus</i> has 46 sharp and stout teeth in its mouth, huge jaw muscles and a powerful neck and body that can twist and torque to reduce stress and provide leverage. A single bite from a healthy boar could fatally injure a giant mosasaur. In addition to hunting and defense, <i>Hydrotherosaurus</i> boars use their tusks in intraspecific battle; disputes of territory, mating rights, and status within the phalanx are settled by gently biting each others flippers. These fights are rarely dangerous, and each boar takes care to only intimidate their opponent with their strength, not to actually injure them.
+   <p/>Every October, <i>Hydrotherosaurus</i> boars fight for the right to mate with the sows in their Phalanx. The sows are picky, and will only mate with the strongest, most powerful boars. In April, when the plankton blooms are at their peak and the ecosystem is at its most productive, the sows give birth to a single, large fawn each. Though the mother has the largest role in the fawns life, all the other sows and boars in the phalanx help to care for it and protect it from predators. As such, each fawn is raised by a platoon of aunts and uncles as well as its mother. Fawns frequently play with each other and their parents, chasing and play-fighting and occasionally using ammonites as toys, batting them back and forth with their flippers or tossing them into the air. Young fawns are spotted; this helps the adults in the phalanx to recognize them and identify them as one of their own. They begin to lose their spots at around two years of age; by the time they are five years old, they have lost their spots completely. In the wild, <i>Hydrotherosaurus</i> live to be around 40 years old, if disease or injury doesnt kill them first. In captivity, they have been known to live up to 60 years. One elderly sow at the Prague Palaeo Marine Center lived to be 73 before passing away.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <i>Hydrotherosaurus</i> created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_hydrotherosaurus>
+</ZT2Strings>

@@ -1,0 +1,129 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Kaiwhekea>Kaiwhekea</Kaiwhekea>
+      <Kaiwhekea_stt>Kaiwhekea</Kaiwhekea_stt>
+      <Kaiwhekea_lower>the Kaiwhekea</Kaiwhekea_lower>
+      <Kaiwhekea_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kaiwhekea</b>
+         </color>
+         <br/>
+         Click to select and then place a Kaiwhekea, strange and enigmatic plesiosaur from New Zealand.
+      </Kaiwhekea_ltt>
+      <!--gift names-->
+      <Kaiwhekea_Gift>Kaiwhekea giftname</Kaiwhekea_Gift>
+      <Kaiwhekea_Gift_stt>Kaiwhekea Backpack</Kaiwhekea_Gift_stt>
+      <Kaiwhekea_Gift_lower>the Kaiwhekea Backpack</Kaiwhekea_Gift_lower>
+      <Kaiwhekea_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Kaiwhekea Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Kaiwhekea will buy this gift.
+      </Kaiwhekea_Gift_ltt>
+</entityname>
+<zoopedia_kaiwhekea>
+ <entry>Kaiwhekea</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Kaiwhekea/Kaiwhekea_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Benthic<br/></color>
+     <img src="ui/icon_biomes/icon_Benthic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Katiki Sea<br/></color> 
+     <img src="ui/icon_maplocations/benthic_katiki_sea.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Plesiosaurs <i>(Plesiosauria)</i><br/>Family: Leptocleidids <i>(Leptocleididae)</i><br/>Genus: <i>Kaiwhekea</i><br/>Species: <i>katiki</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/benthic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Kaiwhekea Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Kaiwhekea</i> can stay underwater for nearly two hours without rising to take a breath.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Kaiwhekea</i> have been seen rubbing up against blocks of pack ice to remove dead skin and parasites.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Old <i>Kaiwhekea</i> frequently suffer from a condition known as The Bends, or Decompression Sickness, which is caused by ascending from deep to shallow water too quickly.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Kaiwhekea in challenge or campaign games, you must earn a 3 1/2 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>Every year, when the Aurora Australis winds its way through the winter sky, a strange and mysterious animal rises from the deep to give birth in the shallows. The Maori name for it is <i> e kai ana o wheke</i>, Eater of Squid; to science, it is known as <i>Kaiwhekea</i>. Hailing from the deep waters of the Katiki Sea, off the shores of New Zealand, this unusual creature certainly lives up to its name. Analysis of stomach contents have shown that up to 70 percent of its diet is made up of squid, belemnites and other fast-moving cephalopods. Only a handful of specimens of this enigmatic plesiosaur have been recovered, mostly dead or dying specimens on the surface or bycatch from deepwater trawling nets; this is enough, however, to determine many aspects of its biology and behaviour.
+   <p/><i>Kaiwhekea</i> are thought to spend their time at depths of between 1,000 and 2,000 meters. Their large, reflective eyes are sensitive to even the faintest light, and can pick out the bioluminescence of a single squid in total darkness. Unlike many plesiosaurs, which have eyes on the top of their heads for sensing prey above, <i>Kaiwhekea</i> have forward-facing eyes. At such depths, upwards-facing eyes would be useless, since no light whatsoever penetrates beyond the 1,000 meter mark. In such conditions, <i>Kaiwhekea</i> must rely on their tentacled prey panicking and producing a burst of bioluminescence; only then can they pinpoint its position and go in for the kill. In addition to squid and belemnites, <i>Kaiwhekea</i> will also eat fish and ammonites, given the opportunity. They are also known to feed on krill and other planktonic crustaceans; it is believed that they filter them out of the water with their tiny, interlocking teeth. These unique features make <i>Kaiwhekea</i> difficult to classify. When they were first discovered in 2002, they were thought to be cryptoclidids; later, they were believed to be aristonectine elasmosaurids. They are currently thought to be leptocleidids, most closely related to <i>Nichollssaura</i> of North American waters; however, if this assessment turns out to be correct, it would mean that <i>Kaiwhekea</i> are the only known leptocleidids found in waters deeper than 80 meters and one of only a few found in saltwater.
+   <p/>The social life of <i>Kaiwhekea</i> remains almost entirely a mystery. We know they rise from the deep each winter to give birth to a single, large fawn, just in time for the first light of spring to jumpstart photosynthesis and provide a feast for the newborns. We know from ID tags that the young stay close to their mothers for at least a year, possibly more. But we do not know how or when the males and females mate; we do not know how long a mated pair remains together, and we do not know whether they hunt in phalanxes or alone. Indeed, for every fact we do know about <i>Kaiwhekea</i>, there remain hundreds more yet to be discovered.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <i>Kaiwhekea</i> created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_kaiwhekea>
+</ZT2Strings>

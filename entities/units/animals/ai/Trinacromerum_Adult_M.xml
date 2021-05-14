@@ -1,0 +1,80 @@
+<BFTypedBinder binderType="Trinacromerum_Adult_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Polycotylidae>
+
+                        <Trinacromerum>
+
+                           <Trinacromerum_Adult>
+
+                              <Trinacromerum_Adult_M/>
+
+                           </Trinacromerum_Adult>
+
+                        </Trinacromerum>
+
+                     </Polycotylidae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities/units/animals/Trinacromerum/Trinacromerum_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Trinacromerum_Adult_M"/>
+         </on>
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+
+   <binder>
+
+      <BFNamedBinder binderName="mainObj">
+
+         <instance>
+
+            <BFPhysObj>
+
+               <BFActorComponent actorfile="entities/units/animals/Trinacromerum/Trinacromerum_Adult_M.bfm" scale="0.77"/>
+
+            </BFPhysObj>
+
+         </instance>
+
+      </BFNamedBinder>
+
+   </binder>
+
+</BFTypedBinder>

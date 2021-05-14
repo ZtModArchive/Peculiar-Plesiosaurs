@@ -1,0 +1,18 @@
+<TEXTKEY>
+   <key time=".3" text="{Bip01 L BackFin2} runspl strength=0.15"/>
+   <key time=".3" text="{Bip01 R BackFin2} runspl strength=0.15"/>
+   <key time=".5" text="{Bip01 L Fin2} runspl strength=0.25"/>
+   <key time=".5" text="{Bip01 R Fin2} runspl strength=0.25"/>
+   <key time=".9" text="{Bip01 L Fin2} runspl strength=0.15"/>
+   <key time=".9" text="{Bip01 R Fin2} runspl strength=0.15"/>
+   <key time="1.4" text="{Bip01 L BackFin2} runspl strength=0.25"/>
+   <key time="1.4" text="{Bip01 R BackFin2} runspl strength=0.25"/>
+   <key time="2.0" text="{Bip01 L BackFin2} runspl strength=0.15"/>
+   <key time="2.0" text="{Bip01 R BackFin2} runspl strength=0.15"/>
+   <key time="2.2" text="{Bip01 L Fin2} runspl strength=0.25"/>
+   <key time="2.2" text="{Bip01 R Fin2} runspl strength=0.25"/>
+   <key time="2.6" text="{Bip01 L Fin2} runspl strength=0.15"/>
+   <key time="2.6" text="{Bip01 R Fin2} runspl strength=0.15"/>
+   <key time="3.1" text="{Bip01 L BackFin2} runspl strength=0.25"/>
+   <key time="3.1" text="{Bip01 R BackFin2} runspl strength=0.25"/>
+</TEXTKEY>

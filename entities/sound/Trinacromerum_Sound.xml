@@ -1,0 +1,7 @@
+<soundtags>
+        <BFSoundtag>
+                <BF3DSndFactory name="Trinacromerum_Call">
+                <snd name="entities/units/animals/Trinacromerum/sound/Trinacromerum_Call.wav" volume="1" mindist="2" maxdist="30" />
+                </BF3DSndFactory>
+        </BFSoundtag>
+</soundtags>

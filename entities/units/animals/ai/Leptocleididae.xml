@@ -1,0 +1,22 @@
+<BFTypedBinder binderType="Leptocleididae" abstract="true">
+   <types>
+      <entity>
+         <actor>
+            <animal>
+               <Reptilia>
+                  <Plesiosauria>
+                     <Leptocleididae/>
+                  </Plesiosauria>
+               </Reptilia>
+            </animal>
+         </actor>
+      </entity>
+   </types>
+   <instance>
+      <BFGEntity/>
+   </instance>
+   <shared>
+      <BFAIEntityDataShared b_landAnimal="false"/>
+      <ZTEntityCrater crateType="AnimalCrate_mm" crateParticleDef="EmoteReleaseToWild_mm" />
+   </shared>
+</BFTypedBinder>

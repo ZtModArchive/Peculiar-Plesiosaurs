@@ -1,0 +1,123 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Tatenectes>Tatenectes</Tatenectes>
+      <Tatenectes_stt>Tatenectes</Tatenectes_stt>
+      <Tatenectes_lower>the Tatenectes</Tatenectes_lower>
+      <Tatenectes_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tatenectes</b>
+         </color>
+         <br/>
+         Click to select and then place a Tatenectes, a very flat Plesiosaur.
+      </Tatenectes_ltt>
+      <!--gift names-->
+      <Tatenectes_Gift>Tatenectes giftname</Tatenectes_Gift>
+      <Tatenectes_Gift_stt>Tatenectes Backpack</Tatenectes_Gift_stt>
+      <Tatenectes_Gift_lower>the Tatenectes Backpack</Tatenectes_Gift_lower>
+      <Tatenectes_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Tatenectes Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Tatenectes will buy this gift.
+      </Tatenectes_Gift_ltt>
+</entityname>
+<zoopedia_tatenectes>
+ <entry>Tatenectes</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Tatenectes/Tatenectes_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_Coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Sundance Sea<br/></color> 
+     <img src="ui/icon_maplocations/coastal_sundance_sea.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Plesiosaurs <i>(Plesiosauria)</i><br/>Family: Cryptoclidids <i>(Cryptoclididae)</i><br/>Genus: <i>Tatenectes</i><br/>Species: <i>laramiensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Tatenectes Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Tatenectes</i> swallow large numbers of rocks and pebbles which they find on the sea floor. These rocks, called Gastroliths, help weigh the plesiosaur down so it can stay close to the bottom with ease.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Tatenectes</i> eyes face upwards so they can see predators and prey moving in from above them.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Tatenectes in challenge or campaign games, you must earn a 2 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>A fish swims nonchalantly over the sandy bottom of a shallow sea in northwestern North America, on the lookout for prey. Seeing what appears to be a clump of algae, gently waving in the current, it darks forward to nibble on the alleged seaweed. Suddenly, the sandy seabed disappears, replaced by the cavernous gullet of a <i>Tatenectes</i>. Thin, needle-sharp teeth dig into the fishs sides, holding it in place and restricting its frantic wriggling long enough for the plesiosaur to swallow it, head first. This is a fairly common sight in the waters of the Sundance Sea, a large, shallow bay in what is now Wyoming. <i>Tatenectes</i> is just one of many genera of plesiosaurs to live and breed in these waters, but it is the only one showing such extreme specialization to a given lifestyle. As evidenced by their cryptic colouration and flattened body, <i>Tatenectes</i> spend most of their time motionless on the seafloor, waiting for prey to wander within striking distance. To this end, they have a set of fleshy tassels growing from their face, just above their snout. The plesiosaur waves these gently, the motion attracting fish in search of a snack. A set of stiffer tassels also encircle the rest of the body, helping to break up the animals outline and further camouflage it against the seabed.
+   <p/><i>Tatenectes</i> fossils were discovered in the early 1900s, but were fragmentary and originally thought to belong to a kind of elasmosaur, <i>Cimoliasaurus</i>. A more recent study revealed that it was, in fact, a cryptoclidid, an ancient and more primitive group mainly known from European waters. A look at the skeleton of <i>Tatenectes</i> reveals its astounding flatness and the thickness of its bones, making this plesiosaur very heavy for its size. In addition to providing camouflage, this flatness helps <i>Tatenectes</i> remain stable in the shallow, storm-tossed Sundance. <i>Tatenectes</i> is known to feed on small sharks, as well as fish and cephalopods, which they swallow whole, using their small, sharp teeth to grip their slimy prey and prevent escape. When threatened by a predator or rival, <i>Tatenectes</i> make hissing noises and rise up off the seafloor to reveal their brilliant white belly, startling and intimidating their would-be attackers into leaving them alone.
+   <p/><i>Tatenectes</i>, unusually among plesiosaurs, are solitary animals. Engrossed in the strenuous lifestyle of sitting and waiting, they rarely encounter another of their species and when they do, the meeting is not often friendly. <i>Tatenectes</i> will hiss and mock charge to drive intruders out of their territory. This antisocialism is hardly conducive to continuing the species, so should a boar invade the territory of a sexually receptive sow, they will mate before she drives him away. About 175 days after mating, the sow will give birth to a litter of fawns, between two and four in number, which she cares for for approximately 7 months before turning them out to face life on their own. Immediately after birth the fawns need to breathe, so the mother guides them to the surface, keeping them on top of her body so they will not sink when they tire. She does this every ten minutes or so until the fawns are strong enough to make it to the surface on their own. Adult <i>Tatenectes</i> can go for over an hour without taking a breath. The mother lets her spotted young wander while she is hunting, but should danger threaten, she lifts her body off the seafloor and the fawns make a beeline for her; she then settles down again, her babies well-protected underneath her body.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+Tatenectes created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_tatenectes>
+</ZT2Strings>

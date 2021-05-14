@@ -1,0 +1,62 @@
+<BFTypedBinder binderType="Bobosaurus_Juvenile_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Pistosauria>
+
+                        <Bobosaurus>
+
+                           <Bobosaurus_Juvenile>
+
+                              <Bobosaurus_Juvenile_M/>
+
+                           </Bobosaurus_Juvenile>
+
+                        </Bobosaurus>
+
+                     </Pistosauria>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+
+         <on>
+
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Bobosaurus_Juvenile_M"/>
+
+         </on>
+
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+</BFTypedBinder>

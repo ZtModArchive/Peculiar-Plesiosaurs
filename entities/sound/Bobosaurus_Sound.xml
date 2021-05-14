@@ -1,0 +1,12 @@
+<soundtags>
+        <BFSoundtag>
+                <BF3DSndFactory name="Bobosaurus_Call">
+                <snd name="entities/units/animals/Bobosaurus/sound/Bobosaurus_Call.mp3" volume="2" mindist="2" maxdist="30" />
+                </BF3DSndFactory>
+        </BFSoundtag>
+        <BFSoundtag>
+                <BF3DSndFactory name="Bobosaurus_Eat">
+                <snd name="entities/units/animals/Bobosaurus/sound/Bobosaurus_Eat.wav" volume="1" mindist="2" maxdist="30" />
+                </BF3DSndFactory>
+        </BFSoundtag>
+</soundtags>

@@ -1,0 +1,126 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Bobosaurus>Bobosaurus</Bobosaurus>
+      <Bobosaurus_stt>Bobosaurus</Bobosaurus_stt>
+      <Bobosaurus_lower>the Bobosaurus</Bobosaurus_lower>
+      <Bobosaurus_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bobosaurus</b>
+         </color>
+         <br/>
+         Click to select and then place a Bobosaurus, a strange creature from the shores of Pangaea.
+      </Bobosaurus_ltt>
+      <!--gift names-->
+      <Bobosaurus_Gift>Bobosaurus giftname</Bobosaurus_Gift>
+      <Bobosaurus_Gift_stt>Bobosaurus Backpack</Bobosaurus_Gift_stt>
+      <Bobosaurus_Gift_lower>the Bobosaurus Backpack</Bobosaurus_Gift_lower>
+      <Bobosaurus_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Bobosaurus Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Bobosaurus will buy this gift.
+      </Bobosaurus_Gift_ltt>
+</entityname>
+<zoopedia_bobosaurus>
+ <entry>Bobosaurus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Bobosaurus/Bobosaurus_Adult_M_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Bobosaurus/Bobosaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Coastal<br/></color>
+     <img src="ui/icon_biomes/icon_Coastal.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Tethys Sea<br/></color> 
+     <img src="ui/icon_maplocations/reef_triassic_europe.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Pistosauroids <i>(Pistosauroidea)</i><br/>Family: Pistosaurs <i>(Pistosauria)</i><br/>Genus: <i>Bobosaurus</i><br/>Species: <i>forojuliensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/coastal_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Bobosaurus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Bobosaurus</i> use their enormous protruding teeth as a cage to trap fish and other edibles in.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">The tall neural spines on <i>Bobosaurus</i> backbones serve as muscle attachment points, providing them with a very strong but relatively stiff back.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Bobosaurus in challenge or campaign games, you must earn a 1/2 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>The sparkling sunlit waters off the coast of what is now Italy are a playground for <i>Bobosaurus</i>. Though they look at first glance like plesiosaurs, a more detailed inspection reveals that they are, in fact, members of a more primitive group- the pistosauria. Plesiosaurs are derived members of pistosauria, and <i>Bobosaurus</i> is as closely related to them as its possible to be without actually being a plesiosaur. These carefree, gallivanting reptiles are miniscule when compared to their more derived, ocean-bound relatives, but at two meters long and well over 150 kilograms in mass, they can hardly be considered small. <i>Bobosaurus</i> are still primitive enough that they can haul themselves out of the water and lump about on land, albeit in an ungainly fashion; Their flippers still bear small but strong claws, and their tails are longer and more flexible, without a tail fin.
+   <p/><i>Bobosaurus</i> are social creatures, living in loose phalanxes frequently numbering over 150 individuals. There is no hierarchy or within the groups, and competition over food and resting places are fierce. However, there are many advantages to living in a phalanx, no matter how disorganized. Prey, mostly consisting of small fish and invertebrates, is easier to find, and easier to catch; As well, predators are less likely to attack a member of a group as they are a lone <i>Bobosaurus</i>. Male <i>Bobosaurus</i> are slightly larger than the females and possess fiery orange and red markings on their heads; During the mating season, they haul out in vast numbers on specially selected beaches and perform an unusual mating display. The bucks prop themselves up on their foreflippers and make deep, grunting noises while tossing their flamboyant heads back and forth, vying for the attention of the females; the does, for their part, are very choosy about who they will mate with and tend to pick the bucks with the brightest markings and the loudest grunts. About 150 days later, a litter of well-developed fawns will be born on some isolated rock, about 4 fawns for each female. The young are brightly patterned with orange spots, very different from their parents. This unusual colour pattern appears to be a warning to predators; Dont eat me, Im poisonous. Though <i>Bobosaurus</i> fawns are not poisonous, they share much of their environment with many toxic invertebrates and fish, most of which seem to share the same black-and-orange colour scheme. Young <i>Bobosaurus</i> cash in on this pattern, pretending to be poisonous in order to dissuade potential predators from thinking they would make a good meal.
+   <p/>Though reptiles are frequently stereotyped as cold-blooded, pistosaurs are an exception to the rule. With the ability to generate their own body heat from the food they catch, rather than relying on the warming power of the sun, they are active at all hours of the day and night. Indeed, they frequently take advantage of the daylight hours to sleep, and it is not uncommon to see them lounging about on rocks, sunbathing in the tropical heat, out of reach of predators both terrestrial and marine. <i>Bobosaurus</i>, though carnivores themselves, have no shortage of predators and are frequently hunted by phytosaurs and large ichthyosaurs such as <i>Cymbospondylus</i> while underwater. On land, they are vulnerable to large Pseudosuchians such as <i>Ornithosuchus</i> and <i>Polonosuchus</i>, as well as from predatory dinosaurs.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <i>Bobosaurus</i> created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_bobosaurus>
+</ZT2Strings>

@@ -1,0 +1,129 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Woolungasaurus>Woolungasaurus</Woolungasaurus>
+      <Woolungasaurus_stt>Woolungasaurus</Woolungasaurus_stt>
+      <Woolungasaurus_lower>the Woolungasaurus</Woolungasaurus_lower>
+      <Woolungasaurus_ltt>
+         <color r="255" g="248" b="178">
+            <b>Woolungasaurus</b>
+         </color>
+         <br/>
+         Click to select and then place a Woolungasaurus, a plesiosaur from the south pole.
+      </Woolungasaurus_ltt>
+      <!--gift names-->
+      <Woolungasaurus_Gift>Woolungasaurus giftname</Woolungasaurus_Gift>
+      <Woolungasaurus_Gift_stt>Woolungasaurus Backpack</Woolungasaurus_Gift_stt>
+      <Woolungasaurus_Gift_lower>the Woolungasaurus Backpack</Woolungasaurus_Gift_lower>
+      <Woolungasaurus_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Woolungasaurus Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Woolungasaurus will buy this gift.
+      </Woolungasaurus_Gift_ltt>
+</entityname>
+<zoopedia_woolungasaurus>
+ <entry>Woolungasaurus</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Woolungasaurus/Woolungasaurus_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Tundra<br/></color>
+     <img src="ui/icon_biomes/icon_Tundra.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Eromanga Sea<br/></color> 
+     <img src="ui/icon_maplocations/tundra_eromanga_sea.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Plesiosaurs <i>(Plesiosauria)</i><br/>Family: Elasmosaurs <i>(Elasmosauridae)</i><br/>Genus: <i>Woolungasaurus</i><br/>Species: <i>glendowerensis</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/tundra_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Woolungasaurus Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Woolungasaurus</i> are covered in a thick layer of blubber, which insulates them from the winter cold.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Baby <i>Woolungasaurus</i> are born pure white.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Oxygen isotope analysis from the related <i>Eromangasaurus</i> prove that the Eromanga Sea froze over in winter.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Woolungasaurus in challenge or campaign games, you must earn a 3 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>Should you find yourself underwater in the middle of the Australian Eromanga Sea, be prepared to die. If the bone-chilling cold doesnt get you first, the predators will. The icy Antarctic waters of the Eromanga are home to several species of plesiosaur. Largest and most famous of these are the pliosaurid <i>Kronosaurus</i>, but their status as king is hotly contested by the smaller, more social <i>Woolungasaurus</i>. If <i>Kronosaurus</i> are the lions of the Antarctic, <i>Woolungasaurus</i> are the hyenas. At approximately nine meters long, they are hardly tiddlers when it comes to size and, equipped with a mouth full of powerful tusks and a thickly muscled neck, they are fierce fighters. In addition, they hunt in phalanxes of 5 to 10 individuals, using the strength found in numbers to their advantage. Other elasmosaurs prefer to hunt creatures somewhat smaller than themselves, but <i>Woolungasaurus</i> routinely takes prey much closer to their own size, including sharks, giant squid, ichthyosaurs, and the small mosasaurs that inhabit the polar seas. <i>Kronosaurus</i> is the only known predator of <i>Woolungasaurus</i>, but it will only hunt isolated individuals; <i>Woolungasaurus</i> frequently mob the giant pliosaur as a defense, biting and hitting it until it swims away.
+   <p/>The environment of the Eromanga is an extreme one. Australia is much closer to the south pole than it is today, south of the Antarctic circle, in fact, and the sea freezes completely over in winter. For an air-breathing reptile, this presents a problem. With a layer of ice separating the air from the water, it cannot rise to the surface to breathe. <i>Woolungasaurus</i> solve the problem by keeping open holes in the ice in which to breathe, using their thick, powerful tusks to scrape away the ice that continually freezes around the edges. This behaviour wears down the teeth to stubs less than half their original size. Fortunately, the teeth are replaced every year after the ice begins to break up. <i>Woolungasaurus</i> mate at the beginning of spring, when the pack ice has disappeared and the new summer sun brings a flush of new life to the Eromanga. The young grow and develop in the womb for nearly a year. When the fawns are born, a few weeks before the ice disappears, they are pure white; their adult spots dont start to come in until they are two years old.
+   <p/>In the far west of their range, a specific population of <i>Woolungasaurus</i> has learned to take advantage of a highly seasonal food source. Every year after the ice freezes, vast herds of <i>Muttaburrasaurus</i>, a large herbivorous dinosaur, undertake a great migration across the ice from Antarctica north to Queensland in search of food not covered in ice and snow. It is on the return trip, when the pack ice is beginning to break up, that the plesiosaurs watch and wait for stragglers. Slow, injured or young dinosaurs that fall behind the main group are still on the ice when the cracks between the floes widen enough to admit a plesiosaur. It is now that the phalanx attacks. The <i>Woolungasaurus</i> swim between the floes, deliberately startling the dinosaur, trying to herd it to where they want it to go. When they isolate the unlucky <i>Muttaburrasaurus</i> on a smaller, more manageable chunk of ice, they begin their attack in earnest. A team of plesiosaurs intentionally beach themselves on one end of the floe, tipping the ice and causing the dinosaur to lose its balance. They then all slide off at once, casing the floe to right itself and further unbalancing their prey. They repeat this process until the <i>Muttaburrasaurus</i> falls into the water or panics and tries to swim for it, providing the plesiosaurs with a meal.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <i>Woolungasaurus</i> created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_woolungasaurus>
+</ZT2Strings>

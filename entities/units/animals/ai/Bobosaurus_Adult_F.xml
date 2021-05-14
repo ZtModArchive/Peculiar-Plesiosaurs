@@ -1,0 +1,52 @@
+<BFTypedBinder binderType="Bobosaurus_Adult_F">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Pistosauria>
+
+                        <Bobosaurus>
+
+                           <Bobosaurus_Adult>
+
+                              <Bobosaurus_Adult_F/>
+
+                           </Bobosaurus_Adult>
+
+                        </Bobosaurus>
+
+                     </Pistosauria>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <BFAIEntityDataShared b_Male="0" b_Pregnant="false"/>
+
+   </shared>
+</BFTypedBinder>

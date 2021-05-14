@@ -1,0 +1,8 @@
+<ZT2Strings>
+      <LOC_STRING _locID="FilterText:format"  >
+         <font name="arial" size="10" shadowx="-1" shadowy="1">
+            <b>%text%</b>
+         </font>
+      </LOC_STRING>
+      <LOC_STRING _locID="FilterText:s_Product_Plesiosaurs"  >Peculiar Plesiosaurs</LOC_STRING>
+</ZT2Strings>

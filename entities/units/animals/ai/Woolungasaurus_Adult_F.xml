@@ -1,0 +1,52 @@
+<BFTypedBinder binderType="Woolungasaurus_Adult_F">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Elasmosauridae>
+
+                        <Woolungasaurus>
+
+                           <Woolungasaurus_Adult>
+
+                              <Woolungasaurus_Adult_F/>
+
+                           </Woolungasaurus_Adult>
+
+                        </Woolungasaurus>
+
+                     </Elasmosauridae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <BFAIEntityDataShared b_Male="0" b_Pregnant="false"/>
+
+   </shared>
+</BFTypedBinder>

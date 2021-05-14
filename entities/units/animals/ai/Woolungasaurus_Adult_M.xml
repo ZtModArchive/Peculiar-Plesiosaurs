@@ -1,0 +1,80 @@
+<BFTypedBinder binderType="Woolungasaurus_Adult_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Elasmosauridae>
+
+                        <Woolungasaurus>
+
+                           <Woolungasaurus_Adult>
+
+                              <Woolungasaurus_Adult_M/>
+
+                           </Woolungasaurus_Adult>
+
+                        </Woolungasaurus>
+
+                     </Elasmosauridae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities/units/animals/Woolungasaurus/Woolungasaurus_Adult_F_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Woolungasaurus_Adult_M"/>
+         </on>
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+
+   <binder>
+
+      <BFNamedBinder binderName="mainObj">
+
+         <instance>
+
+            <BFPhysObj>
+
+               <BFActorComponent actorfile="entities/units/animals/Woolungasaurus/Woolungasaurus_Adult_F.bfm" scale="1.3"/>
+
+            </BFPhysObj>
+
+         </instance>
+
+      </BFNamedBinder>
+
+   </binder>
+
+</BFTypedBinder>

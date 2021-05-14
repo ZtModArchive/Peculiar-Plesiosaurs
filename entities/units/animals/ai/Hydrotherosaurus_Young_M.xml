@@ -1,0 +1,62 @@
+<BFTypedBinder binderType="Hydrotherosaurus_Young_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Elasmosauridae>
+
+                        <Hydrotherosaurus>
+
+                           <Hydrotherosaurus_Young>
+
+                              <Hydrotherosaurus_Young_M/>
+
+                           </Hydrotherosaurus_Young>
+
+                        </Hydrotherosaurus>
+
+                     </Elasmosauridae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+
+         <on>
+
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Hydrotherosaurus_Young_M"/>
+
+         </on>
+
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+</BFTypedBinder>

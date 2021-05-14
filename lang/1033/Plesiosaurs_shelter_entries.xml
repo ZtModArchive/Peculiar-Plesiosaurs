@@ -1,0 +1,26 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="entityname:PackIce"  >Pack Ice</LOC_STRING>
+      <LOC_STRING _locID="entityname:PackIce_stt"  >Pack Ice</LOC_STRING>
+      <LOC_STRING _locID="entityname:PackIce_lower"  >the Pack Ice</LOC_STRING>
+      <LOC_STRING _locID="entityname:PackIce_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Pack Ice</b>
+         </color>
+         <br/>
+         Click to select and then place the Pack Ice, a place for your cold-water animals to rest.
+      </LOC_STRING>
+      <LOC_STRING _locID="zoopedia_packiceshelter:entry"  >Pack Ice</LOC_STRING>
+      <LOC_STRING _locID="zoopedia_packiceshelter:text"  >
+			<cell pady="0" width="1000"/>
+			<p/>
+			<cell width="260"/>
+			<cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+				<cell width="600" padx="20" pady="20">
+					<color r="255" g="255" b="255">
+						<img src="entities/objects/shelters/PackIce_Shelter/PackIce_Shelter_icon.dds" sx="0" sy="0" sw="64" sh="64"/>
+						<p/>Many marine animals from colder climates prefer to rest under these large, floating blocks of ice, especially plesiosaurs like Woolungasaurus.
+					</color>
+				</cell>
+			</cell>
+		</LOC_STRING>
+</ZT2Strings>

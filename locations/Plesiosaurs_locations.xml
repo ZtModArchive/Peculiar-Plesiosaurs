@@ -1,0 +1,9 @@
+<entries>
+   <ZTLocationEntry name="benthic_katiki_sea" locid="worldlocation:katikisea" icon="ui/icon_maplocations/benthic_katiki_sea.dds"/>
+   <ZTLocationEntry name="coastal_cretaceous_california" locid="worldlocation:californiacoast" icon="ui/icon_maplocations/coastal_cretaceous_california.dds"/>
+   <ZTLocationEntry name="coastal_sundance_sea" locid="worldlocation:sundancesea" icon="ui/icon_maplocations/coastal_sundance_sea.dds"/>
+   <ZTLocationEntry name="coastal_western_interior_seaway" locid="worldlocation:pwesterninteriorseaway" icon="ui/icon_maplocations/coastal_western_interior_seaway.dds"/>
+   <ZTLocationEntry name="pelagic_western_interior_seaway" locid="worldlocation:cwesterninteriorseaway" icon="ui/icon_maplocations/pelagic_western_interior_seaway.dds"/>
+   <ZTLocationEntry name="reef_triassic_europe" locid="worldlocation:tethyssea" icon="ui/icon_maplocations/reef_triassic_europe.dds"/>
+   <ZTLocationEntry name="tundra_eromanga_sea" locid="worldlocation:eromangasea" icon="ui/icon_maplocations/tundra_eromanga_sea.dds"/>
+</entries>

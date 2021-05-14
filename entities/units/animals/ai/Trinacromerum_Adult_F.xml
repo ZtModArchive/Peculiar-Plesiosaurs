@@ -1,0 +1,52 @@
+<BFTypedBinder binderType="Trinacromerum_Adult_F">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Polycotylidae>
+
+                        <Trinacromerum>
+
+                           <Trinacromerum_Adult>
+
+                              <Trinacromerum_Adult_F/>
+
+                           </Trinacromerum_Adult>
+
+                        </Trinacromerum>
+
+                     </Polycotylidae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <BFAIEntityDataShared b_Male="0" b_Pregnant="false"/>
+
+   </shared>
+</BFTypedBinder>

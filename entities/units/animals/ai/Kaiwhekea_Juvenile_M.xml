@@ -1,0 +1,62 @@
+<BFTypedBinder binderType="Kaiwhekea_Juvenile_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Leptocleididae>
+
+                        <Kaiwhekea>
+
+                           <Kaiwhekea_Juvenile>
+
+                              <Kaiwhekea_Juvenile_M/>
+
+                           </Kaiwhekea_Juvenile>
+
+                        </Kaiwhekea>
+
+                     </Leptocleididae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+
+         <on>
+
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Kaiwhekea_Juvenile_M"/>
+
+         </on>
+
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+</BFTypedBinder>

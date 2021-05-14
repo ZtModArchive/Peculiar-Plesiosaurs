@@ -1,0 +1,61 @@
+<BFTypedBinder binderType="Woolungasaurus_Young_F">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Elasmosauridae>
+
+                        <Woolungasaurus>
+
+                           <Woolungasaurus_Young>
+
+                              <Woolungasaurus_Young_F/>
+
+                           </Woolungasaurus_Young>
+
+                        </Woolungasaurus>
+
+                     </Elasmosauridae>
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+
+         <on>
+
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Woolungasaurus_Young_F"/>
+
+         </on>
+
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="0"/>
+
+   </shared>
+</BFTypedBinder>

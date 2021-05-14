@@ -1,0 +1,135 @@
+<ZT2Strings>
+<entityname>
+   <!--animal names-->
+      <Trinacromerum>Trinacromerum</Trinacromerum>
+      <Trinacromerum_stt>Trinacromerum</Trinacromerum_stt>
+      <Trinacromerum_lower>the Trinacromerum</Trinacromerum_lower>
+      <Trinacromerum_ltt>
+         <color r="255" g="248" b="178">
+            <b>Trinacromerum</b>
+         </color>
+         <br/>
+         Click to select and then place a Trinacromerum, a very fast swimmer.
+      </Trinacromerum_ltt>
+      <!--gift names-->
+      <Trinacromerum_Gift>Trinacromerum giftname</Trinacromerum_Gift>
+      <Trinacromerum_Gift_stt>Trinacromerum Backpack</Trinacromerum_Gift_stt>
+      <Trinacromerum_Gift_lower>the Trinacromerum Backpack</Trinacromerum_Gift_lower>
+      <Trinacromerum_Gift_ltt>
+         <color r="255" g="248" b="178">
+            <b>Trinacromerum Backpack</b>
+         </color>
+         <br/>Guests who enjoy watching the Trinacromerum will buy this gift.
+      </Trinacromerum_Gift_ltt>
+</entityname>
+<zoopedia_trinacromerum>
+ <entry>Trinacromerum</entry>
+ <text>
+  <cell pady="0" width="1000"/>
+  <p/>
+  <cell width="260"/>
+  <cell width="640" height="320" bgimg="ui/zoopedia/topCellBg.dds">
+   <cell width="600" padx="20" pady="20">
+
+                <cell width="284">
+						 <cell width="96" bgimg="ui/zoopedia/littleBox-128.tga">
+						  <img src="entities/units/animals/Trinacromerum/Trinacromerum_Adult_F_icon.dds" sx="0" sy="0" sw="64" sh="64" height="96" width="96"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_male.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="16">
+						  <img src="ui/zoopedia/icon_female.dds" sx="0" sy="0" sw="64" sh="64" width="16" height="16"/>
+						 </cell>
+						 <cell width="156"/>
+                  <br/>   
+                  <cell width="32" pady="0">               
+                     <img src="ui/zoopedia/extinct.dds" sx="0" sy="0" sw="64" sh="64" width="32" height="32"/>
+                  </cell>                 
+                  <cell width="224" padx="10" pady="0">
+                     <color r="255" g="255" b="255">
+                     Conservation Status:
+                     <br/>
+                        <color r="255" g="255" b="255">
+                      EXTINCT
+                        </color>
+                     </color>                  
+                  </cell>
+               </cell>      
+   
+    <cell width="128">
+     <color r="255" g="255" b="255">Pelagic<br/></color>
+     <img src="ui/icon_biomes/icon_Pelagic.dds" sx="0" sy="0" sw="128" sh="128" width="96" height="96"/>
+    </cell>
+    <cell width="128">
+     <color r="255" g="255" b="255">Western Interior Seaway<br/></color> 
+     <img src="ui/icon_maplocations/pelagic_western_interior_seaway.dds" sx="0" sy="0" sw="256" sh="256" width="96" height="96"/>
+    </cell>
+    <br/>
+    <cell width="284" pady="10">
+     <color r="255" g="255" b="255">Class: Reptiles <i>(Reptilia)</i><br/>Order: Plesiosaurs <i>(Plesiosauria)</i><br/>Family: Polycotylids <i>(Polycotylidae)</i><br/>Genus: <i>Trinacromerum</i><br/>Species: <i>bentonianum</i>
+     </color>
+    </cell>
+    <cell width="256" pady="10">
+     <img src="UI/zoopedia/biome/pelagic_zoopedia_biomebrush.dds" sx="0" sy="0" sw="256" sh="85"/>
+    </cell>
+   </cell>
+  </cell>
+  <p/>
+  <p/>
+  <cell width="260"/>
+  <cell width="300">
+   <cell width="64">
+    <img src="ui/zoopedia/fact-icon64.tga" sx="0" sy="0" sw="64" sh="64"/>
+   </cell>
+   <cell width="176">
+    <color r="255" g="255" b="255">
+     <font name="arial" size="12" shadowx="2" shadowy="1" shadowa="50">Fun Trinacromerum Facts</font>
+    </color>
+   </cell>
+   <p/>
+   <cell width="280" bgimg="ui/zoopedia/factBG.tga" padx="10">
+    <p/>
+    <cell width="32" pady="10">
+     <img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+    </cell>
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Trinacromerum</i> means Three-Tipped Femur, a reference to the odd shape of their flipper bones.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>    
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255">Sometimes <i>Trinacromerum</i> leap from the waters surface, reaching heights of nearly 6 meters.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Trinacromerum</i> are very intelligent for reptiles and will often play together, using stones, shells, and stunned fish as toys.</color>
+    </cell>
+	<cell width="32" pady="10">
+		<img src="ui/zoopedia/fact-bullet.tga" sx="0" sy="0" sw="32" sh="32"/>
+	</cell>        
+    <cell width="202" pady="10">
+     <color r="255" g="255" b="255"><i>Trinacromerum</i> have strong social bonds and will often mob a predator if it threatens a member of their phalanx.</color>
+    </cell>
+  </cell>
+  </cell>
+  <cell width="340">
+   <color r="255" g="248" b="178">
+    To unlock the Trinacromerum in challenge or campaign games, you must earn a 1 1/2 star zoo fame rating for your zoo. 
+   </color>
+   <p/><color r="255" g="0" b="0">DISCLAIMER: All information pertaining to the life appearance and behaviour of this animal is purely speculative, invented for the readers enjoyment, and should not be misconstrued as scientific fact.</color>
+   <p/>Few Mesozoic marine environments have so captured the imagination as the region traditionally known as the Western Interior Seaway. Stuffed to the brim with giant mosasaurs, sharks, crocodiles, and enormous predatory fish, it certainly deserves its nickname, Hells Aquarium. So much diversity can be found in these seas it is slightly ridiculous. Bounded on one side by the subcontinent of Laramidia, home to the infamous <i>Tyrannosaurus rex</i>, and on the other side by the mysterious, little-explored Appalachia, the Seaway is a corridor for the migration routes of marine giants. The shallow, sunlit waters are home to great reefs, providing food and shelter to a massive array of small fish and cephalopods, the basis of a food chain that stretches all the way up to the great <i>Tylosaurus</i>. These teeming waters are also the home of a very small, very fast group of plesiosaurs- the polycotylids.
+   <p/>Polycotylids are extraordinary in more ways than one. Though they resemble the giant predatory pliosaurs in overall body shape, they are more closely related to the long-necked plesiosaurs such as <i>Elasmosaurus</i> and <i>Leptocleidus</i>. Of the three species of polycotylids inhabiting the Seaway, the smallest and fastest is <i>Trinacromerum</i>. Instantly identifiable by their bold black-and-white patterning, they- like other polycotylids- are specialized pursuit predators of small fish and squid. Their four crescent-shaped flippers and tall, rudderlike tail propel them at speeds of up to 50 kilometers per hour and allow them to change direction nearly instantly. This speed and agility allows them to hunt their favourite prey- Sabertoothed Herring, <i>Enchodus parvus</i>. These tiny, silvery fish travel in vast schools of several million, relying on numbers to protect them. Every year schools migrate from the Arctic Ocean in the north to the Gulf of Mexico in the south, following the plankton blooms. And they are followed every step of the way by predators, including <i>Trinacromerum</i>. The predators feed by rushing into the swirling storm of fish, skimming them from the edges of the shoal. In addition to the <i>Enchodus</i> baitballs, <i>Trinacromerum</i> also feed on small, fast fish that do not form schools, as well as small sharks and squid. They use their speed and agility to capture prey, but it is also their first line of defense against predators, of which there are many. Sharks, elasmosaurs, and mosasaurs of all sizes would not hesitate to feast on polycotylids if they could catch them.
+   <p/><i>Trinacromerum</i> swim in small phalanxes, family groups of 3 to 5 individuals. They can often be seen following giant elasmosaurs like <i>Thalassomedon</i>, hoping to catch the small fish flushed out of hiding by the giants probing. <i>Trinacromerum</i> bucks are slightly larger than the does and have brilliant blue markings on their throat and tail fin, which they display to the does as an invitation to mate and also to each other as a contest of health and strength. The brighter the blue, the healthier the buck. When first born, <i>Trinacromerum</i>fawns are nearly a third of their mothers body length, and can keep pace with her within minutes after taking their first breath. In a sea full of predators, this is a necessity. Unlike many plesiosaurs, <i>Trinacromerum</i> have no defined territory, and a single phalanx can be travel from Alaska to Texas each year, following the Sabertooth Herring Run.
+  </cell>
+  <p/>
+  <cell width="260"/>
+  <cell width="620">
+   <i>Trinacromerum</i> created by <color r="255" g="248" b="178">Acinonyx Jubatus.</color>
+  </cell>
+ </text>
+</zoopedia_trinacromerum>
+</ZT2Strings>

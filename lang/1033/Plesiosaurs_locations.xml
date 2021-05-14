@@ -1,0 +1,51 @@
+﻿<ZT2Strings>
+      <LOC_STRING _locID="worldlocation:katikisea"  >Katiki Sea</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:katikisea_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Katiki Sea</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:californiacoast"  >California Coast</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:californiacoast_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>California Coast</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:sundancesea"  >Sundance Sea</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:sundancesea_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Sundance Sea</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:cwesterninteriorseaway"  >Western Interior Seaway</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:cwesterninteriorseaway_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Western Interior Seaway</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:pwesterninteriorseaway"  >Western Interior Seaway</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:pwesterninteriorseaway_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Western Interior Seaway</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:tethyssea"  >Tethys Sea</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:tethyssea_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Tethy Sea</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eromangasea"  >Eromanga Sea</LOC_STRING>
+      <LOC_STRING _locID="worldlocation:eromangasea_ltt"  >
+         <color r="255" g="248" b="178">
+            <b>Eromanga Sea</b>
+         </color>
+         <br/>
+      </LOC_STRING>
+</ZT2Strings>

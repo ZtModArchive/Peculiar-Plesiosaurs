@@ -1,0 +1,6 @@
+<TEXTKEY>
+   <key time=".3" text="{Bip01 L BackFin2} runspl strength=0.15"/>
+   <key time=".3" text="{Bip01 R BackFin2} runspl strength=0.15"/>
+   <key time=".5" text="{Bip01 L Fin2} runspl strength=0.25"/>
+   <key time=".5" text="{Bip01 R Fin2} runspl strength=0.25"/>
+</TEXTKEY>

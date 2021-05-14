@@ -1,0 +1,52 @@
+<BFTypedBinder binderType="Kaiwhekea_Adult_F">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Leptocleididae>
+
+                        <Kaiwhekea>
+
+                           <Kaiwhekea_Adult>
+
+                              <Kaiwhekea_Adult_F/>
+
+                           </Kaiwhekea_Adult>
+
+                        </Kaiwhekea>
+
+                     </Leptocleididae>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <BFAIEntityDataShared b_Male="0" b_Pregnant="false"/>
+
+   </shared>
+</BFTypedBinder>

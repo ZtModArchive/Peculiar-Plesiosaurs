@@ -1,0 +1,80 @@
+<BFTypedBinder binderType="Bobosaurus_Adult_M">
+
+   <types>
+
+      <entity>
+
+         <actor>
+
+            <animal>
+
+               <Reptilia>
+
+                  <Plesiosauria>
+
+                     <Pistosauria>
+
+                        <Bobosaurus>
+
+                           <Bobosaurus_Adult>
+
+                              <Bobosaurus_Adult_M/>
+
+                           </Bobosaurus_Adult>
+
+                        </Bobosaurus>
+
+                     </Pistosauria>
+
+                  </Plesiosauria>
+
+               </Reptilia>
+
+            </animal>
+
+         </actor>
+
+      </entity>
+
+   </types>
+
+   <instance>
+
+      <BFGEntity/>
+
+   </instance>
+
+   <shared>
+
+      <UIToggleButton template="adopt">
+         <UIAspect>
+            <default image="entities/units/animals/Bobosaurus/Bobosaurus_Adult_M_icon.dds"/>
+         </UIAspect>
+         <on>
+            <event msg="ZT_SETPLACEMENTOBJECT" data="BFString" string="Bobosaurus_Adult_M"/>
+         </on>
+      </UIToggleButton>
+
+      <BFAIEntityDataShared b_Male="1"/>
+
+   </shared>
+
+   <binder>
+
+      <BFNamedBinder binderName="mainObj">
+
+         <instance>
+
+            <BFPhysObj>
+
+               <BFActorComponent actorfile="entities/units/animals/Bobosaurus/Bobosaurus_Adult_M.bfm" scale="0.6"/>
+
+            </BFPhysObj>
+
+         </instance>
+
+      </BFNamedBinder>
+
+   </binder>
+
+</BFTypedBinder>
